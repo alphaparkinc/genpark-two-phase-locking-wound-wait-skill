@@ -1,0 +1,13 @@
+{
+  "name": "genpark-two-phase-locking-wound-wait-skill",
+  "version": "1.0.0",
+  "description": "Strict Two-Phase Locking (SS2PL) concurrency control with Wound-Wait timestamp-based deadlock prevention algorithm.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "concurrency-control",
+    "two-phase-locking",
+    "wound-wait",
+    "deadlock-prevention"
+  ]
+}
